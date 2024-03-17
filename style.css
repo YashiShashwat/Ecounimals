@@ -1,0 +1,41 @@
+body {
+    font-family: "Madimi One", sans-serif;
+    background-color: crimson;
+}
+
+.header_div {
+    background: rgb(138, 26, 26);
+    color:whitesmoke;
+    font-family: "Rock 3D", system-ui;
+    font-weight: bolder;
+}
+
+.header_div p {
+    font-family: "Amatic SC", sans-serif;
+    color: rgb(221, 197, 197);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: "Amatic SC", sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: rgb(0, 0, 0);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(155, 56, 56);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(225, 202, 202);
+}
+
+
