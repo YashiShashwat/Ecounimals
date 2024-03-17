@@ -6,3 +6,7 @@ function startClassification(){
 function modelReady(){
     classifier.classify(gotResults)
 }
+
+function gotResults(){
+    console.log("Got Result")
+}
